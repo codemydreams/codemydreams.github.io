@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3c74396c","path":"/guide/h5/vue2/vuex/actions.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Actions","slug":"actions","link":"#actions","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/vuex/actions.md"}');export{t as data};

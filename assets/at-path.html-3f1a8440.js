@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-084d1302","path":"/guide/h5/vue2/extend/at-path.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"@路径配置","slug":"路径配置","link":"#路径配置","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/extend/at-path.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as s,p as c,q as o,R as e}from"./framework-5866ffd3.js";const t={},_=e("h2",null,"scoped的作用",-1),n=e("p",null,"scoped会在元素上添加唯一的属性（data-v-x形式），css编译后也会加上属性选择器，从而达到限制作用域的目的",-1),a=[_,n];function d(l,r){return c(),o("div",null,a)}const i=s(t,[["render",d],["__file","scoped.html.vue"]]);export{i as default};

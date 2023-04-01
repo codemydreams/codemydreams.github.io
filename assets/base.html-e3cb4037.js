@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as s,R as _}from"./framework-5866ffd3.js";const c={},o=_("h2",null,"基础知识",-1),n=[o];function a(r,l){return t(),s("div",null,n)}const f=e(c,[["render",a],["__file","base.html.vue"]]);export{f as default};

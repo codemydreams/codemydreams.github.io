@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-33ecda1e","path":"/guide/h5/vue2/extend/code-fragment.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"代码片段","slug":"代码片段","link":"#代码片段","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/extend/code-fragment.md"}');export{e as data};

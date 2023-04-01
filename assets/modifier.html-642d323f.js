@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b9343ed6","path":"/guide/h5/vue2/directive/modifier.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/directive/modifier.md"}');export{e as data};

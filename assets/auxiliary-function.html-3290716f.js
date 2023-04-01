@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-b6d89c6c","path":"/guide/h5/vue2/vuex/auxiliary-function.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"辅助函数","slug":"辅助函数","link":"#辅助函数","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/vuex/auxiliary-function.md"}');export{e as data};

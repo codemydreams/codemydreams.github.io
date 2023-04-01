@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-12e70232","path":"/guide/h5/vue2/component/father-to-son.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"父传子","slug":"父传子","link":"#父传子","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/component/father-to-son.md"}');export{e as data};

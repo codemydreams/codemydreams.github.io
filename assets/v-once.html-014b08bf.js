@@ -1,0 +1,2 @@
+import{_ as s,p as n,q as c,R as e}from"./framework-5866ffd3.js";const a={},t=e("h2",null,"v-once",-1),l=e("div",{class:"language-jsx line-numbers-mode","data-ext":"jsx"},[e("pre",{class:"language-jsx"},[e("code",null,`
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),o=[t,l];function r(_,d){return n(),c("div",null,o)}const u=s(a,[["render",r],["__file","v-once.html.vue"]]);export{u as default};

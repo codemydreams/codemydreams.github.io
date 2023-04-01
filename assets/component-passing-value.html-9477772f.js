@@ -1,0 +1,1 @@
+import{_ as n,p as t,q as o,R as e}from"./framework-5866ffd3.js";const s={},c=e("h2",null,"组件传值",-1),_=e("p",null,"组件之间是不能通讯的（默认数据是不能互相使用的）",-1),a=[c,_];function l(r,i){return t(),o("div",null,a)}const u=n(s,[["render",l],["__file","component-passing-value.html.vue"]]);export{u as default};

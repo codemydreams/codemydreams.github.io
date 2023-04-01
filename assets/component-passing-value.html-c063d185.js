@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-940ed91a","path":"/guide/h5/vue2/component/component-passing-value.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/component/component-passing-value.md"}');export{e as data};

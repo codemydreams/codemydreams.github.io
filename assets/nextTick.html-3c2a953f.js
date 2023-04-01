@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0766fd48","path":"/guide/h5/vue2/nextTick.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"$nextTick","slug":"nexttick","link":"#nexttick","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/nextTick.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as n}from"./framework-5866ffd3.js";const c={},_=n("h2",null,"组件化",-1),s=[_];function r(a,l){return t(),o("div",null,s)}const d=e(c,[["render",r],["__file","component.html.vue"]]);export{d as default};

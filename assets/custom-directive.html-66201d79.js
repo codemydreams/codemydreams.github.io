@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as c,R as o}from"./framework-5866ffd3.js";const s={},_=o("h2",null,"自定义指令",-1),n=[_];function r(a,i){return t(),c("div",null,n)}const d=e(s,[["render",r],["__file","custom-directive.html.vue"]]);export{d as default};

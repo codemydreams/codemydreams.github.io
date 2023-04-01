@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as _,R as e}from"./framework-5866ffd3.js";const s={},c=e("h2",null,"修饰符",-1),n=e("p",null,"Vue中常用的修饰符分三种，分别是事件修饰符、按键修饰符和表单修饰符。",-1),r=[c,n];function l(i,a){return o(),_("div",null,r)}const f=t(s,[["render",l],["__file","modifier.html.vue"]]);export{f as default};

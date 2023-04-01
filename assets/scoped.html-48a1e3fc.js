@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-edaeedfe","path":"/guide/h5/vue2/extend/scoped.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"scoped的作用","slug":"scoped的作用","link":"#scoped的作用","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/extend/scoped.md"}');export{e as data};

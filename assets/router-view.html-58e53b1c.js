@@ -1,3 +1,0 @@
-import{_ as e,p as a,q as s,a1 as n}from"./framework-5866ffd3.js";const t={},c=n(`<h2 id="路由占位" tabindex="-1"><a class="header-anchor" href="#路由占位" aria-hidden="true">#</a> 路由占位</h2><div class="language-jsx line-numbers-mode" data-ext="jsx"><pre class="language-jsx"><code><span class="token comment">// 当前的路由是什么，该位置就加载这个路由对应的组件</span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>router-view</span> <span class="token punctuation">/&gt;</span></span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),i=[c];function r(o,l){return a(),s("div",null,i)}const u=e(t,[["render",r],["__file","router-view.html.vue"]]);export{u as default};
