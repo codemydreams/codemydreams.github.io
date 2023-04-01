@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af79aa1e","path":"/guide/h5/vue2/axios/props-diff.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"get与post的传参差异","slug":"get与post的传参差异","link":"#get与post的传参差异","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/axios/props-diff.md"}');export{e as data};

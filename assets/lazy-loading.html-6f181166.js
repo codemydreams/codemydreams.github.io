@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4317edfd","path":"/guide/h5/vue2/router/lazy-loading.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/router/lazy-loading.md"}');export{e as data};

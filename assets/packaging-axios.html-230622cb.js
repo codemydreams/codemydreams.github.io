@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-40c027d3","path":"/guide/h5/vue2/axios/packaging-axios.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"封装Axios","slug":"封装axios","link":"#封装axios","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/axios/packaging-axios.md"}');export{a as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as c}from"./framework-5866ffd3.js";const n={},r=e("h2",{id:"组件化开发",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#组件化开发","aria-hidden":"true"},"#"),c(" 组件化开发")],-1),s=[r];function _(d,i){return o(),a("div",null,s)}const l=t(n,[["render",_],["__file","component.html.vue"]]);export{l as default};

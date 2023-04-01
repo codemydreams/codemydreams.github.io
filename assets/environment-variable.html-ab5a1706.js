@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-26be0b4a","path":"/guide/h5/vue2/extend/environment-variable.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"环境变量","slug":"环境变量","link":"#环境变量","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/extend/environment-variable.md"}');export{e as data};

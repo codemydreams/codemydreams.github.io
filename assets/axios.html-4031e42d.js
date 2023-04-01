@@ -1,0 +1,5 @@
+import{_ as a,M as o,p as t,q as i,R as n,t as e,N as c,a1 as r}from"./framework-5866ffd3.js";const l={},d=n("h2",{id:"axios",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#axios","aria-hidden":"true"},"#"),e(" Axios")],-1),p={href:"https://axios-http.com/zh/",target:"_blank",rel:"noopener noreferrer"},m=r(`<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token comment"># npm安装</span>
+<span class="token function">npm</span> <span class="token function">install</span> axios
+<span class="token comment"># yarn 安装</span>
+<span class="token function">yarn</span> <span class="token function">add</span> axios
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1);function _(u,h){const s=o("ExternalLinkIcon");return t(),i("div",null,[d,n("p",null,[n("a",p,[e("Axios"),c(s)]),e("是一个基于promise的HTTP库，可以用在浏览器和node.js中。")]),m])}const v=a(l,[["render",_],["__file","axios.html.vue"]]);export{v as default};
