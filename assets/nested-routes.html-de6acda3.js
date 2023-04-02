@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-74cd2c9c","path":"/guide/h5/vue2/router/nested-routes.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/router/nested-routes.md"}');export{e as data};

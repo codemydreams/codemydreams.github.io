@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c357202","path":"/guide/front-end/vue2/router/magic-notes.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/router/magic-notes.md"}');export{e as data};

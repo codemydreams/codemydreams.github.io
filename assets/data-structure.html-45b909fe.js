@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fb75ab76","path":"/guide/computer-basics/data-structure.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/computer-basics/data-structure.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-dc8931d0","path":"/guide/h5/vue2/directive/v-bind.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/directive/v-bind.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ba8713d6","path":"/guide/front-end/html/media.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"音频","slug":"音频","link":"#音频","children":[]},{"level":3,"title":"视频","slug":"视频","link":"#视频","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/html/media.md"}');export{e as data};

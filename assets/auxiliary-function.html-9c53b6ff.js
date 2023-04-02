@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-078e3b48","path":"/guide/front-end/vue2/vuex/auxiliary-function.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/vuex/auxiliary-function.md"}');export{e as data};

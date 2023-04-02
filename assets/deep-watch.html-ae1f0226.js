@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62077a0c","path":"/guide/front-end/vue2/watch/deep-watch.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/watch/deep-watch.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68f6559b","path":"/guide/front-end/vue2/component/dynamic-component.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/component/dynamic-component.md"}');export{e as data};

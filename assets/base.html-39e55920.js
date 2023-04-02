@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-150b9570","path":"/guide/front-end/vue2/axios/base.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/axios/base.md"}');export{e as data};

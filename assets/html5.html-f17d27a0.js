@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f0506862","path":"/guide/front-end/html/html5.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"本地存储","slug":"本地存储","link":"#本地存储","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/html/html5.md"}');export{t as data};

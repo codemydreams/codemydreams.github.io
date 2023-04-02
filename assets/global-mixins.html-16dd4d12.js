@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-003407db","path":"/guide/front-end/vue2/mixins/global-mixins.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/mixins/global-mixins.md"}');export{e as data};

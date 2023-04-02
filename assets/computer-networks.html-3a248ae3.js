@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-64c2a0c6","path":"/guide/computer-basics/computer-networks.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/computer-basics/computer-networks.md"}');export{t as data};

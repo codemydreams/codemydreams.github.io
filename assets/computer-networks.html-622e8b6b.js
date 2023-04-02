@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as c}from"./framework-5866ffd3.js";const s={},r=c("h2",null,"计算机网络",-1),_=[r];function n(a,l){return t(),o("div",null,_)}const u=e(s,[["render",n],["__file","computer-networks.html.vue"]]);export{u as default};

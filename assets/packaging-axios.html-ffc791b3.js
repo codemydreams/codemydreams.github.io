@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-26bc54e5","path":"/guide/front-end/vue2/axios/packaging-axios.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/axios/packaging-axios.md"}');export{e as data};

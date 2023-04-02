@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4fd05274","path":"/guide/front-end/vue2/directive/v-bind.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/directive/v-bind.md"}');export{e as data};

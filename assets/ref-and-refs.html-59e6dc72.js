@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c90fd4a","path":"/guide/front-end/vue2/ref-and-refs.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/ref-and-refs.md"}');export{e as data};

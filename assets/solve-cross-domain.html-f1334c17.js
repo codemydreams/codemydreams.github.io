@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-d5b930d8","path":"/guide/h5/vue2/axios/solve-cross-domain.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/h5/vue2/axios/solve-cross-domain.md"}');export{e as data};

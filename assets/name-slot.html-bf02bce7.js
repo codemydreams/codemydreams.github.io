@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f6533ac","path":"/guide/front-end/vue2/component/name-slot.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/component/name-slot.md"}');export{e as data};

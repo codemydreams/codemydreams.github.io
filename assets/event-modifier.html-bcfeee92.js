@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d62243e0","path":"/guide/front-end/vue2/directive/event-modifier.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/directive/event-modifier.md"}');export{e as data};

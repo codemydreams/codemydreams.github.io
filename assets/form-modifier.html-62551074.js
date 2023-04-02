@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-502ca758","path":"/guide/front-end/vue2/directive/form-modifier.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue2/directive/form-modifier.md"}');export{e as data};
