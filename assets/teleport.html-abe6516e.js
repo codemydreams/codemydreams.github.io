@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-44f65630","path":"/guide/front-end/vue3/teleport.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue3/teleport.md"}');export{e as data};

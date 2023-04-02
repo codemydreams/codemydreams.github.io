@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as _,R as o}from"./framework-5866ffd3.js";const c={},s=o("h2",null,"传送门",-1),n=[s];function r(l,a){return t(),_("div",null,n)}const f=e(c,[["render",r],["__file","teleport_副本3.html.vue"]]);export{f as default};

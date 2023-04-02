@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5e2b79ee","path":"/guide/front-end/vue3/vuex.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"Vuex数据刷新丢失","slug":"vuex数据刷新丢失","link":"#vuex数据刷新丢失","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/front-end/vue3/vuex.md"}');export{e as data};
