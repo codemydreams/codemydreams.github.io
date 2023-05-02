@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bb79297c","path":"/guide/cargo/axios.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Axios","slug":"axios","link":"#axios","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/cargo/axios.md"}');export{e as data};
