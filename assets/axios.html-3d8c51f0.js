@@ -1,1 +1,0 @@
-import{_ as a,p as s,q as t,R as e,t as o}from"./framework-5866ffd3.js";const c={},r=e("h2",{id:"axios",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#axios","aria-hidden":"true"},"#"),o(" Axios")],-1),i=[r];function n(_,d){return s(),t("div",null,i)}const l=a(c,[["render",n],["__file","axios.html.vue"]]);export{l as default};
